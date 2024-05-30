@@ -1,4 +1,4 @@
-Volume Control Using Hand Gesture
+<h2>Volume Control Using Hand Gesture</h2>
 Description
 This project implements a sophisticated volume control system that uses hand gestures as input. By leveraging computer vision techniques and machine learning, the system detects specific hand gestures to increase, decrease, or mute the volume on your device. This hands-free approach to volume control is not only innovative but also adds a futuristic touch to everyday interactions with technology.
 
