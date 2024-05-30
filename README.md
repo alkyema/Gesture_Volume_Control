@@ -26,7 +26,6 @@ Features
 <ol>
 <li><h3>Clone the Repository:</h3></l1>
     <pre><code>git clone https://github.com/yourusername/volume-control-gesture.git
-
 cd volume-control-gesture</code></pre>
 <li><h3>Install Dependencies:</h3></l1>
     <pre><code>pip install -r requirements.txt</code></pre>
